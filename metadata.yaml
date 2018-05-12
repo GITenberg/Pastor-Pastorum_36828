@@ -1,0 +1,27 @@
+_repo: Pastor-Pastorum_36828
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Latham, Henry
+    birthdate: 1821
+    deathdate: 1902
+    gutenberg_agent_id: '38498'
+    url: http://www.gutenberg.org/2009/agents/38498
+description: ''
+gutenberg_issued: '2011-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36828'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BT'
+- !lcsh 'Jesus Christ'
+- !lcsh 'Teaching'
+title: Pastor Pastorum; Or, The Schooling of the Apostles by Our Lord
+url: http://www.gutenberg.org/ebooks/36828
